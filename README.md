@@ -50,7 +50,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/adharialabrii">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
@@ -70,5 +70,5 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=adharialabrii&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
