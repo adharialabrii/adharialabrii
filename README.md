@@ -29,7 +29,7 @@
 ### Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,supabase,postgres" />
 </p>
 
 ### Tools
