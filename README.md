@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Advanced OutSystems, React, Node.js & Cloud Technologies**
 - 🏆 Passionate about hackathons, web development, AI, and problem solving
 - ⚡ Love building applications that solve real-world problems
-- 📫 Reach me at **adharialabri.68.com**
+- 📫 Reach me at **adharialabri.68@gmail.com**
 
 ---
 
